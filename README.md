@@ -1,63 +1,113 @@
-# 🎮 Villager Runaway - Game Project
+# 🎮 Villager Runaway - Game Development Project Report
 
-## 📌 Project Information
-- **Project Title:** Villager Runaway  
-- **Project By:** [Leader Name] and Team  
-- **Register Numbers:** [Team Member 1], [Team Member 2], [Team Member 3], [Team Member 4]  
-- **GitHub URL:** [https://github.com/your-repo](https://github.com/your-repo)  
-- **Domain:** Game Development  
-- **Tags:** Unreal Engine, Blueprint, Survival, Stealth, Escape
+---
 
 ## 📖 Story
-In a peaceful forest village, a strange mist corrupts the minds of its residents, turning them into enemy AI. One villager resists the transformation. With no weapons and no allies, they must escape the village while being hunted by their own friends.
 
-To unlock the escape route, the player must collect **10 Magic Boxes**. Once collected, a **Magic Door** appears. Along the way, the player can use **Healing Mushrooms** to recover lost health. Stealth and evasion are key — the player cannot attack the enemies.
+In a small peaceful village surrounded by forest, a mysterious force begins corrupting the villagers, transforming them into aggressive enemy AI. One lone villager remains unaffected. With no weapons and only stealth as a tool, the player must escape.
 
-## 🛠️ Tools & Technologies Used
-- Unreal Engine 5 (Third Person Template)  
-- Blueprint Visual Scripting  
-- AI Behavior Trees + Blackboards  
-- Perception System for Enemy AI  
-- Widget Blueprint for UI (Health, Box Count)  
-- Custom Level Design using UE5 tools
+The only way out is through a **Magic Door** that unlocks after collecting **10 Magic Boxes** scattered around the village. The player must avoid detection, heal using **Mushrooms**, and survive long enough to escape. The challenge lies in navigating a place once called home, now filled with threats.
 
-## 🧩 Game Features
-- 👤 Player Character with health and dash mechanic  
-- 🧠 AI Enemies that chase the player using sight/sound  
-- 📦 Collectibles: 10 Magic Boxes needed to unlock escape  
-- 🍄 Healing Mushrooms to recover health  
-- 🚪 Escape door appears when collection is complete  
-- 📊 UI: Health bar and collectible counter  
-- 🎯 Game ends with win or loss based on player condition
+---
 
-## 🎯 Game Win & Lose Conditions
-- ✅ **Win:** Collect all 10 Magic Boxes and reach the Magic Door  
-- ❌ **Lose:** If health reaches 0, the game ends
+## 🧰 Tools & Technologies Used
 
-## 🔥 Future Features & Ideas
-- 👀 Stealth hiding mechanics (inside houses, grass)  
-- 🌗 Day and night cycle  
-- 🔊 AI detection based on footsteps and noise  
-- 🎬 Intro cutscene showing villager transformation  
-- 🧩 Puzzle mechanics with switches and traps
+- **Unreal Engine 5** (Third Person Template)  
+- **Blueprint Visual Scripting**  
+- **Behavior Trees and AI Blackboards**  
+- **AI Perception System (Sight/Sound)**  
+- **UI Widgets for Health, Inventory, Counters**  
+- **Level Design with Fab Assets**  
+- **Version Control:** GitHub
 
-## 🧩 Fab – Epic's Unified Asset Marketplace
-**Fab** is Epic Games’ new digital asset marketplace combining Unreal Engine Marketplace, Sketchfab, Quixel Megascans, and ArtStation.  
-We explored [Fab.com](https://www.fab.com/) for environment assets, foliage, props, and visual enhancements for our levels.
+---
 
-- Supports UE5, Unity, UEFN, and other engines  
-- High-quality real-time ready assets  
-- Available directly in UE5 content browser
+## 🕹️ Game Features
 
-## 📺 Reference Video
-This project was independently developed by our team, but we referred to this video to learn Unreal Engine basics:  
-🔗 [How to Make Your First Game in Unreal Engine 5 in 2025 – Gorka Games](https://www.youtube.com/watch?v=Y_0L1uGJZPQ)
+- 👤 Third-person character with health, dash, and stealth  
+- 🧠 Enemy AI that uses visual/audio perception  
+- 📦 Collectibles: 10 Magic Boxes to win  
+- 🍄 Healing Mushrooms restore health  
+- 🚪 Magic Door unlocks after collecting all boxes  
+- 🖥️ UI showing health and collected item count  
+- 🎮 Lose if health drops to 0; win by reaching the door
 
+---
 
+## ✅ Win & Lose Conditions
 
-## ✅ Conclusion
-Through the development of **Villager Runaway**, we have learned and applied core game development principles using Unreal Engine 5, including blueprint scripting, AI behavior trees, environment design, and gameplay logic.
+- **Win Condition:**  
+  - Collect all 10 Magic Boxes  
+  - Reach and unlock the Magic Door
 
-This project provided hands-on experience in designing a playable game prototype from scratch. We explored asset sourcing via Fab.com, and implemented features like collectibles, enemy AI detection, and a win/lose game loop.
+- **Lose Condition:**  
+  - Caught by AI and health becomes 0
 
-In the future, we plan to expand this project with improved graphics, animations, multiplayer elements, and enhanced stealth mechanics. This proposal showcases our commitment to learning game development as a team and applying it creatively.
+---
+
+## 🌟 Future Development Ideas
+
+- Hiding spots (grass, buildings)  
+- Sound detection by enemies  
+- Puzzle gates requiring switches  
+- Day/night cycle and lighting effects  
+- Intro cinematic with story buildup
+
+---
+
+## 🧩 Fab - Epic Games Asset Marketplace
+
+We used assets from **[Fab.com](https://www.fab.com/)**, Epic’s unified asset library combining:
+- Unreal Engine Marketplace  
+- Sketchfab  
+- Quixel Megascans  
+- ArtStation  
+
+These helped us enhance level visuals with trees, rocks, mushrooms, and props—all optimized for real-time engines.
+
+---
+
+## 🎞️ Project Demo Video
+
+▶️ [Watch our Gameplay Demo](https://www.youtube.com/watch?v=your-video-id)
+
+---
+
+## 📚 Learning Reference
+
+We referred to this tutorial to understand Unreal Engine basics:  
+🎓 [Gorka Games - Unreal Engine 5 Beginner Course](https://www.youtube.com/watch?v=Y_0L1uGJZPQ)
+
+---
+
+## 📝 Project Proposal Summary
+
+**Objective:**  
+To build a survival/stealth-based 3D escape game using Unreal Engine where the player avoids corrupted AI and escapes by collecting items.
+
+**Scope:**  
+Focuses on single-player mechanics using Blueprint, with AI, item collection, health, and win/lose logic.
+
+**Goals:**  
+- Implement stealth-based AI  
+- Learn UE5 blueprint and UI systems  
+- Build and showcase a functional prototype
+
+**Team:**  
+Aathi sakthi s 212223223001, [Member 1], [Member 2], [Member 3], [Member 4]
+
+---
+
+## 📌 Conclusion
+
+This project provided deep insight into UE5 game development, AI logic, UI systems, and teamwork. By using Fab assets and Blueprint, we created a complete functional game prototype with a compelling story and immersive gameplay.
+
+We now have hands-on experience in:
+- AI perception and behavior
+- Event-based blueprint scripting
+- UI feedback for player actions
+- Game balance with non-combat tension
+
+The project taught us how to turn a small concept into an engaging gameplay loop—and laid the foundation for more advanced projects in the future.
+
+---
