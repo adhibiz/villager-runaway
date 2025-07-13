@@ -2,6 +2,24 @@
 
 ---
 
+## 📝 Project Proposal Summary
+
+**Objective:**  
+To build a survival/stealth-based 3D escape game using Unreal Engine where the player avoids corrupted AI and escapes by collecting items.
+
+**Scope:**  
+Focuses on single-player mechanics using Blueprint, with AI, item collection, health, and win/lose logic.
+
+**Goals:**  
+- Implement stealth-based AI  
+- Learn UE5 blueprint and UI systems  
+- Build and showcase a functional prototype
+
+**Team:**  
+Aathi sakthi s 212223223001, Jayaraj B 212223043002, javan rufus j 212224230104
+
+---
+
 ## 📖 Story
 
 In a small peaceful village surrounded by forest, a mysterious force begins corrupting the villagers, transforming them into aggressive enemy AI. One lone villager remains unaffected. With no weapons and only stealth as a tool, the player must escape.
@@ -73,30 +91,8 @@ These helped us enhance level visuals with trees, rocks, mushrooms, and props—
 
 ---
 
-## 📚 Learning Reference
 
-We referred to this tutorial to understand Unreal Engine basics:  
-🎓 [Gorka Games - Unreal Engine 5 Beginner Course](https://www.youtube.com/watch?v=Y_0L1uGJZPQ)
 
----
-
-## 📝 Project Proposal Summary
-
-**Objective:**  
-To build a survival/stealth-based 3D escape game using Unreal Engine where the player avoids corrupted AI and escapes by collecting items.
-
-**Scope:**  
-Focuses on single-player mechanics using Blueprint, with AI, item collection, health, and win/lose logic.
-
-**Goals:**  
-- Implement stealth-based AI  
-- Learn UE5 blueprint and UI systems  
-- Build and showcase a functional prototype
-
-**Team:**  
-Aathi sakthi s 212223223001, [Member 1], [Member 2], [Member 3], [Member 4]
-
----
 
 ## 📌 Conclusion
 
